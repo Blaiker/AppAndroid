@@ -1,9 +1,9 @@
 package appli.zoutix.gamescreen;
 
-import android.app.Activity;
+        import android.app.Activity;
 
-import android.os.Bundle;
-import android.widget.TextView;
+        import android.os.Bundle;
+        import android.widget.TextView;
 
 public class AccueilActivity extends Activity {
 
